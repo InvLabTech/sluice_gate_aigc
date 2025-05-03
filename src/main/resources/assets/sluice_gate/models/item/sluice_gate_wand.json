@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "sluice_gate:item/sluice_gate_wand"
+  }
+}

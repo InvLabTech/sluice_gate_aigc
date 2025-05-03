@@ -1,0 +1,8 @@
+{
+  "block.sluice_gate.open": {
+    "sounds": ["minecraft:block/iron_door/open"]
+  },
+  "block.sluice_gate.close": {
+    "sounds": ["minecraft:block/iron_door/close"]
+  }
+}

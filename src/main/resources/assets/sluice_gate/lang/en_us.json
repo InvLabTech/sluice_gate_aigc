@@ -1,0 +1,7 @@
+{
+  "block.sluice_gate.sluice_gate_block": "Sluice Gate Block",
+  "item.sluice_gate.sluice_gate_wand": "Gate Configuration Wand",
+  "itemGroup.sluice_gate": "Sluice Gates",
+  "message.sluice_gate.gate_created": "Created gate with ID: %d",
+  "message.sluice_gate.gate_toggled": "Gate %s is now %s"
+}
