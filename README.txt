@@ -1,9 +1,9 @@
 This is a Minecraft 1.20.1 Forge Mod, 99% by Deepseek, I just did the structuring.
 Still Work in progress, not functioning for now.
 这是一个Minecraft 1.20.1 Forge模组，计划可供生成闸门用作游戏装饰或建筑用途。
-仍在开发中，目前功能不能工作。
+由于AI生成一致性和完整性问题暂停开发，目前功能不能工作。
 
-AI prompt：
+AI prompt Below：
 
 项目：
 多方块动态闸门
